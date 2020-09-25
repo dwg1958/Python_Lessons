@@ -2,6 +2,10 @@
 print("PYTHON")
 ## - https://www.w3schools.com/python/default.asp
 
+################################################################
+################ LOCAL DATA STORAGE ############################
+################################################################
+
 ## DICTIONARY ###############
 dogs_dictionary = {"Harley": 5, "Fido": 9, "Tiddles": 2, "Fang": 12}
 # NB No order
